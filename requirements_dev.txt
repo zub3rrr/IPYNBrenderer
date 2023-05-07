@@ -1,0 +1,13 @@
+#common requirements
+ipywidgets
+notebook
+ensure # to check weather an arg pass is correct or not
+py-youtube
+
+
+#dev requirements
+pytest  
+tox
+black #formating purpose
+flake8 #finding error
+mypy # to check type error
